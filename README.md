@@ -6,7 +6,9 @@
     
 # Data: 
 
-Download and unzip from [here](https://drive.google.com/drive/u/1/folders/15arH8QAIYQV_qcgUpU83MK3aBsW4Pnm9). Make sure your assets folder looks like this.
+Download and unzip link will appear here once the license is in order. 
+
+Make sure your assets folder looks like this.
 
     Rotomation_WACV
         |- sir_lionel.py
