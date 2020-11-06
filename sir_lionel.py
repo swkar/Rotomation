@@ -240,14 +240,14 @@ class SirLionel:
 
     @classmethod
     def download_archive(cls):
-        source_url = 'https://drive.google.com/drive/u/1/folders/15arH8QAIYQV_qcgUpU83MK3aBsW4Pnm9' # v1
-        file = 'WACV_dataset_sir_lionel_1.zip'
+        source_url = 'https://link/will/appear/here'
+        file = 'WACV_dataset_sir_lionel.zip'
         print(f'Manually copy {file} from {source_url} to specified folder {cls.target_dir}')
 
 
 if __name__=='__main__':
 
-    target_dir = '/Users/swarnend/Downloads/dataset/WACV_dataset_sir_lionel' # set your preferred dataset directory
+    target_dir = 'WACV_dataset_sir_lionel' # set your preferred dataset directory
     sir_lionel = SirLionel(target_dir=target_dir)
 
     if not sir_lionel.validate():
