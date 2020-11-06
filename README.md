@@ -93,7 +93,7 @@ We augment the ground truth shapes by warping and twiddling the points along the
 
 # Publications
 
-[A Learning-Based Approach to Parametric Rotoscoping of Multi-Shape Systems, WACV 2021](https://drive.google.com/file/d/1tCR6LI3Pm-5NNOeIeznirbvqNobGNcpK)
+A Learning-Based Approach to Parametric Rotoscoping of Multi-Shape Systems, WACV 2021 (link to appear)
 
 [Rotomation: AI Powered Rotoscoping at LAIKA, Siggraph 2020](https://dl.acm.org/doi/pdf/10.1145/3388767.3407315)
 
