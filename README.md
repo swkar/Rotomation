@@ -129,3 +129,4 @@ If you use this dataset for your project, please consider citing the WACV2021 an
 
     This software and the related documents are provided as is, with no express or implied warranties, other than those that are expressly stated in the License.
 
+    Missing Link movie and character images copyright 2019-2020 Laika, LLC and licensed under CC BY-ND 4.0: https://creativecommons.org/licenses/by-nd/4.0/
