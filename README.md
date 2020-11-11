@@ -53,7 +53,13 @@ The goal here is to learn and accurately predict multiple shapes, open and close
 ![image](images/1_Bezier.png)
 
 ## Task specific features
-The raw assets from the compositor's workspace consists of contours with arbitrary points and tangents that are not semantically consistent and hence not trainable. Given several instances of a similar task, our first step is to identify the interactions among shapes and harvest a set of semantically consistent landmark points. We then re-vectorize the original contours based on these landmark points to obtain a new consistent representation. The resulting set of points and tangents are considered to be the relevant features for this task and together with the image, constitute the ground truth data which is ready for training.
+The raw assets from the compositor's workspace consists of contours with arbitrary points and tangents that are not semantically consistent and hence not trainable. Given several instances of a similar task, our first step is to identify the interactions among shapes and harvest a set of semantically consistent landmark points. 
+
+We then re-vectorize the original contours based on these landmark points to obtain a new consistent representation. 
+
+![image](images/2_revectorization.png)
+
+The resulting set of points and tangents are considered to be the relevant features for this task and together with the image, constitute the ground truth data which is ready for training.
 
 ![image](images/2_raw_data_to_GT_data_transform.gif)
 
