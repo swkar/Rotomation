@@ -126,6 +126,14 @@ If you use this dataset for your project, please consider citing the WACV2021 an
     location = {Virtual Event, USA},
     series = {SIGGRAPH '20}
     }
+    
+    
+# Media
+
+[LAIKA Studios Expands Possibilities in Filmmaking](https://www.intel.com/content/www/us/en/customer-spotlight/stories/laika-customer-spotlight.html)
+
+[How movie studio Laika and Intel are revolutionizing stop-motion animation with AI](https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai)
+
 
 # Copyright
 
