@@ -134,6 +134,7 @@ If you use this dataset for your project, please consider citing the WACV2021 an
 
 [How movie studio Laika and Intel are revolutionizing stop-motion animation with AI](https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai)
 
+[Oscar-nominated studio Laika leans on AI to accelerate stop-motion animation](https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/)
 
 # Copyright
 
