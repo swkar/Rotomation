@@ -1,4 +1,4 @@
-# Dataset for "A Learning-Based Approach to Parametric Rotoscoping of Multi-Shape Systems", WACV 2021
+# Dataset for [A Learning-Based Approach to Parametric Rotoscoping of Multi-Shape Systems](https://openaccess.thecvf.com/content/WACV2021/html/Bermudez_A_Learning-Based_Approach_to_Parametric_Rotoscoping_of_Multi-Shape_Systems_WACV_2021_paper.html), WACV 2021
 
 # Virtualenv (python3)
     
@@ -99,17 +99,25 @@ We augment the ground truth shapes by warping and twiddling the points along the
 
 # Publications
 
-A Learning-Based Approach to Parametric Rotoscoping of Multi-Shape Systems, WACV 2021 (link to appear)
+[WACV 2021: A Learning-Based Approach to Parametric Rotoscoping of Multi-Shape Systems](https://openaccess.thecvf.com/content/WACV2021/html/Bermudez_A_Learning-Based_Approach_to_Parametric_Rotoscoping_of_Multi-Shape_Systems_WACV_2021_paper.html)
 
-[Rotomation: AI Powered Rotoscoping at LAIKA, Siggraph 2020](https://dl.acm.org/doi/pdf/10.1145/3388767.3407315)
+[Siggraph 2020: Rotomation: AI Powered Rotoscoping at LAIKA](https://dl.acm.org/doi/pdf/10.1145/3388767.3407315)
 
       
 # Citations
 
 If you use this dataset for your project, please consider citing the WACV2021 and/or Siggraph2020 papers
 
-    <WACV2021 citation will be updated soon>
-
+    @InProceedings{Bermudez_2021_WACV,
+        author    = {Bermudez, Luis and Dabby, Nadine and Lin, Yingxi Adelle and Hilmarsdottir, Sara and Sundararajan, Narayan and Kar, Swarnendu},
+        title     = {A Learning-Based Approach to Parametric Rotoscoping of Multi-Shape Systems},
+        booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+        url       = {https://openaccess.thecvf.com/content/WACV2021/html/Bermudez_A_Learning-Based_Approach_to_Parametric_Rotoscoping_of_Multi-Shape_Systems_WACV_2021_paper.html},
+        month     = {January},
+        year      = {2021},
+        pages     = {776-785}
+    }
+    
     @inproceedings{10.1145/3388767.3407315,
     author = {Stringer, Jeff and Sundararajan, Narayan and Pina, James and Kar, Swarnendu and Dabby, Nadine L. and Lin, Adelle and Bermudez, Luis and Hilmarsdottir, Sara},
     title = {Rotomation: AI Powered Rotoscoping at LAIKA},
@@ -130,11 +138,11 @@ If you use this dataset for your project, please consider citing the WACV2021 an
     
 # Media
 
-[LAIKA Studios Expands Possibilities in Filmmaking](https://www.intel.com/content/www/us/en/customer-spotlight/stories/laika-customer-spotlight.html)
+[Intel Spotlight: LAIKA Studios Expands Possibilities in Filmmaking](https://www.intel.com/content/www/us/en/customer-spotlight/stories/laika-customer-spotlight.html)
 
-[How movie studio Laika and Intel are revolutionizing stop-motion animation with AI](https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai)
+[FastCompany: How movie studio Laika and Intel are revolutionizing stop-motion animation with AI](https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai)
 
-[Oscar-nominated studio Laika leans on AI to accelerate stop-motion animation](https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/)
+[VentureBeat: Oscar-nominated studio Laika leans on AI to accelerate stop-motion animation](https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/)
 
 # Copyright
 
