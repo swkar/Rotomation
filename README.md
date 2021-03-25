@@ -6,7 +6,7 @@
     
 # Data: 
 
-Download and unzip the dataset from (link will appear here). It is distributed under a Creative Commons license.
+Download and unzip the dataset from [LaikaStudios](https://github.com/LaikaStudios/WACV_dataset_sir_lionel). It is distributed under a Creative Commons license.
 
 Make sure your assets folder looks like this.
 
